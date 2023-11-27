@@ -1,0 +1,9 @@
+/key/
+/node_modules/
+
+*.postman_collection.json
+*.postman_environment.json
+
+.env
+.prod.env
+src/api/uploads/file
